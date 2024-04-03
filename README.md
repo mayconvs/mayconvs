@@ -22,6 +22,6 @@
   
 </div>
 <br>
-Ultimamente, muito interessado em Python e amando muito a área de RPA (Robot Process Automation)
+Ultimamente, trabalhando em um projeto web pessoal.
 
 
